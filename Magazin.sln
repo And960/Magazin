@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magazin", "Magazin.csproj", "{D1EA759C-DF27-4883-A38F-A28BEB72A64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flor", "..\Flor\Flor.csproj", "{7AECFA31-E4AC-4EE9-A705-586D8F1D618E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1EA759C-DF27-4883-A38F-A28BEB72A64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EA759C-DF27-4883-A38F-A28BEB72A64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EA759C-DF27-4883-A38F-A28BEB72A64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EA759C-DF27-4883-A38F-A28BEB72A64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AECFA31-E4AC-4EE9-A705-586D8F1D618E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AECFA31-E4AC-4EE9-A705-586D8F1D618E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AECFA31-E4AC-4EE9-A705-586D8F1D618E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AECFA31-E4AC-4EE9-A705-586D8F1D618E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF15201-F995-4154-9EB5-CAE31D4A1C43}
+	EndGlobalSection
+EndGlobal
